@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN Full-Stack**
 
-- 🌱 I’m currently learning **Java, Python**
+- 📫 How to reach me **andanigowdamr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
